@@ -1,0 +1,7 @@
+num1=float(input("Inserte un número \n"))
+num2=float(input("Inserte otro número \n"))
+print("\n")
+print(num2*2)
+print(num1/3)
+print(pow((num1+num2),2))
+print((pow(num1,2)+pow(num2,2))/10)
